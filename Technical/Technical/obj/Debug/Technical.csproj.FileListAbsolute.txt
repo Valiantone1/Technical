@@ -1,0 +1,6 @@
+c:\users\valor\source\repos\Technical\Technical\obj\Debug\Technical.csprojResolveAssemblyReference.cache
+c:\users\valor\source\repos\Technical\Technical\obj\Debug\Technical.csproj.CoreCompileInputs.cache
+c:\users\valor\source\repos\Technical\Technical\bin\Debug\Technical.exe
+c:\users\valor\source\repos\Technical\Technical\bin\Debug\Technical.pdb
+c:\users\valor\source\repos\Technical\Technical\obj\Debug\Technical.exe
+c:\users\valor\source\repos\Technical\Technical\obj\Debug\Technical.pdb
